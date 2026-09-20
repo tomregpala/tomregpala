@@ -18,6 +18,10 @@ A two-layer PCB fitting a JFET noise-gated guitar distortion circuit into a stan
 
 Two GPU-side defenses against the Decepticon model-extraction attack, which identifies a transformer's architecture by fingerprinting kernel execution. Constant-load padding drops the attack's top-1 identification rate from 95% to 9.6% but costs a 6.6× slowdown; jitter scheduling costs 33% overhead and cuts it to 61%. [Write-up](https://tomregpala.github.io/auto-bots.html).
 
+**[STM32-Nucleo-F446RE Projects](https://github.com/tomregpala/STM32-Nucleo-F446RE-Projects)** - STM32CubeIDE & STM32CubeMX
+
+My exploration of embedded systems engineering through various projects on the STM32-Nucleo-F446RE Microcontroller.
+
 ## Elsewhere
 
 [tomregpala.github.io](https://tomregpala.github.io) · [LinkedIn](https://linkedin.com/in/tom-regpala) · sebastianregpala@gmail.com
